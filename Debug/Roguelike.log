@@ -1,0 +1,40 @@
+﻿  Roguelike.cpp
+C:\Users\79243\source\repos\Roguelike\GameObject.h(140,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\79243\source\repos\Roguelike\GameObject.h(145,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\79243\source\repos\Roguelike\GameObject.h(150,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\79243\source\repos\Roguelike\GameObject.h(155,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\79243\source\repos\Roguelike\GameObject.h(215,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\79243\source\repos\Roguelike\GameObject.h(220,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\79243\source\repos\Roguelike\GameObject.h(225,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\79243\source\repos\Roguelike\GameObject.h(230,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\79243\source\repos\Roguelike\GameObject.h(260,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79243\source\repos\Roguelike\GameObject.h(265,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\79243\source\repos\Roguelike\GameObject.h(270,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\79243\source\repos\Roguelike\GameObject.h(275,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\79243\source\repos\Roguelike\GameObject.h(280,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\79243\source\repos\Roguelike\GameObject.h(306,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\79243\source\repos\Roguelike\Monsters.h(87,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\79243\source\repos\Roguelike\Monsters.h(93,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\79243\source\repos\Roguelike\Monsters.h(99,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\79243\source\repos\Roguelike\Monsters.h(105,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\79243\source\repos\Roguelike\GameLoop.h(127,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79243\source\repos\Roguelike\GameLoop.h(130,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79243\source\repos\Roguelike\GameLoop.h(133,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79243\source\repos\Roguelike\GameLoop.h(136,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79243\source\repos\Roguelike\GameLoop.h(183,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79243\source\repos\Roguelike\GameLoop.h(184,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79243\source\repos\Roguelike\GameLoop.h(211,12): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\79243\source\repos\Roguelike\GameLoop.h(211,193): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\79243\source\repos\Roguelike\GameLoop.h(215,12): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\79243\source\repos\Roguelike\GameLoop.h(215,193): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\79243\source\repos\Roguelike\GameLoop.h(221,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79243\source\repos\Roguelike\GameLoop.h(242,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79243\source\repos\Roguelike\GameLoop.h(243,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79243\source\repos\Roguelike\GameLoop.h(248,12): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\79243\source\repos\Roguelike\GameLoop.h(248,178): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\79243\source\repos\Roguelike\GameLoop.h(262,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79243\source\repos\Roguelike\GameLoop.h(263,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79243\source\repos\Roguelike\GameLoop.h(268,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\79243\source\repos\Roguelike\MainMenu.h(243): warning C4715: MainMenue::Esc: значение возвращается не при всех путях выполнения
+C:\Users\79243\source\repos\Roguelike\Monsters.h(27): warning C4715: Monster::RandDir: значение возвращается не при всех путях выполнения
+  Roguelike.vcxproj -> C:\Users\79243\source\repos\Roguelike\Debug\Roguelike.exe
